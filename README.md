@@ -1,16 +1,12 @@
-Affirmation Generator
+#Quotes Generator
 
 
-A lightweight web application designed to deliver instant positivity. Clicking the button asynchronously requests a random positive affirmation from a public API and renders it instantly to the page.
+A lightweight web application designed to deliver instant motivation. 
 
- Key Features
-Instant Good Vibes: One click pulls a new affirmation.
+Clicking the button pulls a random quote from the collection and renders it instantly to the page with a dynamic color change.
+🚀 Key Features
+Instant Inspiration: One click pulls a new quote instantly.Dynamic Colors: Text colors update automatically with every single interaction.
 
-Modern JS: Built using straightforward, linear asynchronous JavaScript (async/await) and the native Fetch API.
+Modern JS: Built using straightforward, linear JavaScript logic.Minimalist UI: Clean, responsive interface focusing purely on the quotes.
 
-Minimalist UI: Clean, responsive interface focusing purely on the affirmations.
-
- Tech Stack
-Frontend: HTML5, CSS3, Vanilla JavaScript
-
-Data Source: Public Affirmations API
+Tech StackFrontend: HTML5, CSS3, Vanilla JavaScriptData Source: Quote collection
